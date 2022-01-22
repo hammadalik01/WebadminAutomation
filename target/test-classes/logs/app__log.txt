@@ -1,0 +1,7 @@
+INFO    2022-01-18 11:08:35,209 [main] devpinoyLogger  - This is the information log
+INFO    2022-01-18 11:08:35,209 [main] devpinoyLogger  - Config file loaded !!!
+ERROR   2022-01-18 11:08:35,209 [main] devpinoyLogger  - Here the error logs will be printed
+INFO    2022-01-18 11:08:35,209 [main] devpinoyLogger  - OR file loaded !!!
+INFO    2022-01-18 11:08:38,142 [main] devpinoyLogger  - Chrome Browser launched
+INFO    2022-01-18 11:08:38,644 [main] devpinoyLogger  - insite login
+INFO    2022-01-18 11:08:39,628 [main] devpinoyLogger  - Login successfully

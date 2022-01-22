@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Data Driven Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Add Job Tittle(failed)">
+    <classes>
+      <class name="testcases.Add_JobTittle">
+        <methods>
+          <include name="add_JobTittle" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testcases.Add_JobTittle -->
+    </classes>
+  </test> <!-- Add Job Tittle(failed) -->
+</suite> <!-- Failed suite [Data Driven Suite] -->

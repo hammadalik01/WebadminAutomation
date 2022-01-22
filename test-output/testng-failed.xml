@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Functional Testing]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="listeners.CustomListeners"/>
+  </listeners>
+  <test thread-count="5" name="Edit And Delete User(failed)">
+    <classes>
+      <class name="testcases.Systemuser">
+        <methods>
+          <include name="VerifyDeleteRecord"/>
+          <include name="VerifyEditRecord"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testcases.Systemuser -->
+    </classes>
+  </test> <!-- Edit And Delete User(failed) -->
+</suite> <!-- Failed suite [Functional Testing] -->

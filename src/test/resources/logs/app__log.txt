@@ -1,0 +1,71 @@
+INFO    2022-01-20 18:54:00,801 [main] devpinoyLogger  - This is the information log
+INFO    2022-01-20 18:54:00,801 [main] devpinoyLogger  - Config file loaded !!!
+ERROR   2022-01-20 18:54:00,801 [main] devpinoyLogger  - Here the error logs will be printed
+INFO    2022-01-20 18:54:00,818 [main] devpinoyLogger  - OR file loaded !!!
+INFO    2022-01-20 18:54:03,834 [main] devpinoyLogger  - Chrome Browser launched
+INFO    2022-01-20 18:54:06,118 [main] devpinoyLogger  - Both Field Empty
+INFO    2022-01-20 18:54:07,081 [main] devpinoyLogger  - Both Field Empty
+INFO    2022-01-20 18:54:07,090 [main] devpinoyLogger  - Invalid Credential
+INFO    2022-01-20 18:54:07,732 [main] devpinoyLogger  - Invalid credential Message show
+INFO    2022-01-20 18:54:07,733 [main] devpinoyLogger  - insite login
+INFO    2022-01-20 18:54:08,657 [main] devpinoyLogger  - Login successfully
+INFO    2022-01-20 18:54:10,486 [main] devpinoyLogger  - User is on create a user Section
+INFO    2022-01-20 18:54:11,796 [main] devpinoyLogger  - Validation on creating a user
+INFO    2022-01-20 18:54:12,933 [main] devpinoyLogger  - User Registered with email address which is already in use
+INFO    2022-01-20 18:54:13,971 [main] devpinoyLogger  - User try to registered with those email address which is not allow
+INFO    2022-01-20 18:54:15,042 [main] devpinoyLogger  - User try to registered with those email address which is not allow
+INFO    2022-01-20 18:54:16,146 [main] devpinoyLogger  - User try to registered with those email address which is not allow
+INFO    2022-01-20 18:54:17,215 [main] devpinoyLogger  - User try to registered with those email address which is not allow
+INFO    2022-01-20 18:54:18,335 [main] devpinoyLogger  - User try to registered with those email address which is not allow
+INFO    2022-01-20 18:54:21,422 [main] devpinoyLogger  - User Successfully registered into application
+INFO    2022-01-20 18:54:24,498 [main] devpinoyLogger  - Admin add national Number Successfully
+INFO    2022-01-20 18:54:25,217 [main] devpinoyLogger  - check validation while user add category in user details section
+INFO    2022-01-20 18:54:28,264 [main] devpinoyLogger  - Admin add International Number Successfully
+INFO    2022-01-20 18:54:28,382 [main] devpinoyLogger  - check validation on KYC manual SIM validation
+INFO    2022-01-20 18:54:30,818 [main] devpinoyLogger  - check you enter invalid data On Kyc Manual SimNumber Field 
+INFO    2022-01-20 18:54:33,098 [main] devpinoyLogger  - check Sim Number validate successfully On Kyc Manual SimNumber Field 
+INFO    2022-01-20 18:54:34,752 [main] devpinoyLogger  - Admin add Full name in KYC personal details
+INFO    2022-01-20 18:54:35,593 [main] devpinoyLogger  - Validation verification on KYC Documents validations form
+INFO    2022-01-20 18:54:40,223 [main] devpinoyLogger  - Personal data edit successfully in KYC document validation
+INFO    2022-01-20 18:54:44,301 [main] devpinoyLogger  - Admin switch Answer method to callback
+INFO    2022-01-20 18:54:45,628 [main] devpinoyLogger  - Admin switch Answer method to Voip
+INFO    2022-01-20 18:54:49,329 [main] devpinoyLogger  - Admin Disable Offer Auto-Renewable
+INFO    2022-01-20 18:54:52,942 [main] devpinoyLogger  - Admin Enable Offer Auto-Renewable
+INFO    2022-01-20 18:54:53,141 [main] devpinoyLogger  - Admin Add SIM Country
+INFO    2022-01-20 18:54:56,277 [main] devpinoyLogger  - Admin Refill National plan
+INFO    2022-01-20 18:54:57,932 [main] devpinoyLogger  - Admin Refill International plan
+INFO    2022-01-20 18:54:59,752 [main] devpinoyLogger  - Admin Extend National Number Successfully
+INFO    2022-01-20 18:55:02,339 [main] devpinoyLogger  - Admin Extend International Number Successfully
+INFO    2022-01-20 18:55:04,187 [main] devpinoyLogger  - User Add notes Successfully
+INFO    2022-01-20 18:55:09,412 [main] devpinoyLogger  - Admin Delete User with release Number
+INFO    2022-01-20 18:55:12,625 [main] devpinoyLogger  - Admin Added Legal Request for International Version
+INFO    2022-01-20 18:55:13,668 [main] devpinoyLogger  - Admin Added Legal Request for French Version
+INFO    2022-01-20 18:55:16,286 [main] devpinoyLogger  - Admin successfully submit Lawful Message Interception For french
+INFO    2022-01-20 18:55:16,783 [main] devpinoyLogger  - Admin successfully submit Lawful Message Interception For International
+INFO    2022-01-20 18:55:17,974 [main] devpinoyLogger  - Admin Land on Lawful Call Interception section
+INFO    2022-01-20 18:55:20,324 [main] devpinoyLogger  - Admin enter start date before interception end date
+INFO    2022-01-20 18:55:21,450 [main] devpinoyLogger  - Admin enter Interception start date before current date
+INFO    2022-01-20 18:55:22,566 [main] devpinoyLogger  - Admin Add Call Interception Request
+INFO    2022-01-20 18:55:23,704 [main] devpinoyLogger  - Call Interception Disabled  Successfully 
+INFO    2022-01-20 18:55:24,767 [main] devpinoyLogger  - Call Interception Disabled  Successfully
+INFO    2022-01-20 18:55:27,499 [main] devpinoyLogger  - admin get CSV data file of Call Logs and Message 
+INFO    2022-01-20 18:55:30,406 [main] devpinoyLogger  - admin get CSV data file of Message 
+INFO    2022-01-20 18:55:33,264 [main] devpinoyLogger  - admin get CSV data file of Call Logs
+INFO    2022-01-20 18:55:33,799 [main] devpinoyLogger  - User land on a User Management section
+INFO    2022-01-20 18:55:34,610 [main] devpinoyLogger  - Validation on English Text Field Empty
+INFO    2022-01-20 18:55:34,804 [main] devpinoyLogger  - Validation on French Text Field Empty
+INFO    2022-01-20 18:55:35,006 [main] devpinoyLogger  - Validation on Phones Numbers Field Empty
+INFO    2022-01-20 18:55:36,082 [main] devpinoyLogger  - Admin submit message successfully
+INFO    2022-01-20 18:55:36,839 [main] devpinoyLogger  - User land on a block Token section
+INFO    2022-01-20 18:55:40,927 [main] devpinoyLogger  - Validation on Empty Block Token field
+INFO    2022-01-20 18:55:44,941 [main] devpinoyLogger  - Admin Blocked Token of user successfully
+INFO    2022-01-20 18:55:46,488 [main] devpinoyLogger  - Admin Blocked Token of user successfully
+INFO    2022-01-20 18:55:47,258 [main] devpinoyLogger  - Admin search Blocked Token in blockToken List it not found
+INFO    2022-01-20 18:55:47,991 [main] devpinoyLogger  - Admin Check validation on Black Domain Form
+INFO    2022-01-20 18:55:48,398 [main] devpinoyLogger  - Black Domain Added successfully
+INFO    2022-01-20 18:55:49,022 [main] devpinoyLogger  - Admin Search Duplicate Text its not found in list
+INFO    2022-01-20 18:55:49,792 [main] devpinoyLogger  - Admin Delete Domain Successfully
+INFO    2022-01-20 18:55:50,743 [main] devpinoyLogger  - User land on Phone Number Information
+INFO    2022-01-20 18:55:56,006 [main] devpinoyLogger  - Admin release Phone number which are in quarantine
+INFO    2022-01-20 18:55:56,044 [main] devpinoyLogger  - Click on Logout button 
+INFO    2022-01-20 18:56:06,418 [main] devpinoyLogger  - Logout from application successfully

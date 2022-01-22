@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Functional Testing">
+	<listeners>
+		<listener class-name="extentlisteners.ExtentListeners"></listener>
+	</listeners>
+
+	<test name="Login Test cases">
+		<classes>
+			<class name="testcases.LoginTest" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="Create User ">
+		<classes>
+			<class name="testcases.CreateUserTest"/>
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="User Detail Test">
+		<classes>
+			<class name="testcases.UserDetailTest"/>
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="Police Report And LawFullMessage Interception">
+		<classes>
+			<class name="testcases.PoliceReportAndLawFullInterception"/>
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="Lawful Call Interception">
+		<classes>
+			<class name="testcases.LawFulCallInterception"/>
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="Data Search">
+		<classes>
+			<class name="testcases.DataSearch"/>
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="User Management">
+		<classes>
+			<class name="testcases.UserManagement"/>
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="Admin Utils">
+		<classes>
+			<class name="testcases.AdminUtils"/>
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="Logout">
+		<classes>
+			<class name="testcases.logoutTest"/>
+		</classes>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->
